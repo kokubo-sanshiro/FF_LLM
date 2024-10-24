@@ -29,7 +29,7 @@ def main():
     ##'Helsinki-NLP/opus-mt-ja-en'
     model_weight = "Helsinki-NLP/opus-mt-ja-en"
 
-    login(token="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")
+    login(token="")
 
     prefix = "日本語 を 英語 に 翻訳 して ください 。: "
 
